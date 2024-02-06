@@ -83,9 +83,3 @@
 
 ## If you cite this paper, please use the following format:
 
-      title={Image super-resolution via dynamic network},
-      author={Tian, Chunwei and Zhang, Xuanyu and Zhang, Qi and Yang, Mingming and Ju, Zhaojie},
-      journal={arXiv preprint arXiv:2310.10413},
-      year={2023}
-}
-```
