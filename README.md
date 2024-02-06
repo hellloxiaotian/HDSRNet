@@ -51,7 +51,7 @@
 
 ## 1. Network architecture of HDSRNet
 
-<img src="./results/Figure 1.png" alt="Set5" style="zoom:67%;" />
+<img src="./results/Figure1.png" alt="architecture" style="zoom:67%;" />
 
 ## 2. HDSRNet for x2，x3 and x4 on Set5
 
@@ -77,13 +77,27 @@
 
 <img src="./results/Complexity.png" alt="Complexity" style="zoom:67%;" />
 
-## 8. Visual results of U100 for x2.
+## 8. Visual results of Set14 for x2.
 
-<img src="./results/Figure 2.png" alt="U100" style="zoom:67%;" />
+<img src="./results/Figure2.png" alt="Set14x2" style="zoom:67%;" />
 
-## 9. Visual results of B100 for x4.
+## 9. Visual results of B100 for x3.
 
-<img src="./results/Figure 3.png" alt="B100" style="zoom:67%;" />
+<img src="./results/Figure3.png" alt="B100x3" style="zoom:67%;" />
 
-## If you cite this paper, please use the following format:
+## 10. Visual results of B100 for x3.
+
+<img src="./results/Figure4.png" alt="B100x3" style="zoom:67%;" />
+
+## 11. Visual results of U100 for x4.
+
+<img src="./results/Figure5.png" alt="U100x4" style="zoom:67%;" />
+
+## 12. Visual results of U100 for x4.
+
+<img src="./results/Figure6.png" alt="U100x4" style="zoom:67%;" />
+
+## 13. Visual results of U100 for x4.
+
+<img src="./results/Figure7.png" alt="U100x4" style="zoom:67%;" />
 
