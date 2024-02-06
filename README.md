@@ -69,7 +69,7 @@
 
 <img src="./results/U100.png" alt="U100" style="zoom:67%;" />
 
-## 6. Running time of different methods on hr images of size 256x256, 512x512 and 1024x1024 for x4.
+## 6. Running time of different methods on hr images of size 256x256 and 512x512 for x4.
 
 <img src="./results/Running time.png" alt="Running time" style="zoom:67%;" />
 
