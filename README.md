@@ -45,23 +45,23 @@
 #### python sample.py
 
 
-## 1. Network architecture of DSRNet
+## 1. Network architecture of HDSRNet
 
 <img src="./results/Figure 1.png" alt="Set5" style="zoom:67%;" />
 
-## 2. DSRNet for x2，x3 and x4 on Set5
+## 2. HDSRNet for x2，x3 and x4 on Set5
 
 <img src="./results/Set5.png" alt="Set5" style="zoom:67%;" />
 
-## 3. DSRNet for x2，x3 and x4 on Set14
+## 3. HDSRNet for x2，x3 and x4 on Set14
 
 <img src="./results/Set14.png" alt="Set14" style="zoom:67%;" />
 
-## 4. DSRNet for x2，x3 and x4  on B100
+## 4. HDSRNet for x2，x3 and x4  on B100
 
 <img src="./results/B100.png" alt="B100" style="zoom:67%;" />
 
-## 5. DSRNet for x2，x3 and x4  on U100
+## 5. HDSRNet for x2，x3 and x4  on U100
 
 <img src="./results/U100.png" alt="U100" style="zoom:67%;" />
 
@@ -83,10 +83,6 @@
 
 ## If you cite this paper, please use the following format:
 
-### 1. Tian, C., Zhang, X., Zhang, Q., Yang, M., & Ju, Z. (2023). Image super-resolution via dynamic network. arXiv preprint arXiv:2310.10413.
-### 2. BibTeX style format.
-```BibTeX
-@article{tian2023image,
       title={Image super-resolution via dynamic network},
       author={Tian, Chunwei and Zhang, Xuanyu and Zhang, Qi and Yang, Mingming and Ju, Zhaojie},
       journal={arXiv preprint arXiv:2310.10413},
