@@ -102,3 +102,15 @@
 
 <img src="./results/Figure7.png" alt="U100x4" style="zoom:67%;" />
 
+## If you cite this paper, please use the following format:
+
+### 1. Tian, C., Zhang, X., Ren, J., Zuo, W., Zhang, Y., & Lin, C. W. (2024). A Heterogeneous Dynamic Convolutional Neural Network for Image Super-resolution. arXiv preprint arXiv:2402.15704.
+### 2. BibTeX style format.
+```BibTeX
+@article{tian2024heterogeneous,
+  title={A Heterogeneous Dynamic Convolutional Neural Network for Image Super-resolution},
+  author={Tian, Chunwei and Zhang, Xuanyu and Ren, Jia and Zuo, Wangmeng and Zhang, Yanning and Lin, Chia-Wen},
+  journal={arXiv preprint arXiv:2402.15704},
+  year={2024}
+}
+```
