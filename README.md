@@ -52,7 +52,7 @@
 
 ## 1. Network architecture of HDSRNet
 
-<img src="./results/Figure1.png" alt="architecture" style="zoom:67%;" />
+<img src="results/Figure1.png" alt="architecture" style="zoom:67%;" />
 
 ## 2. HDSRNet for x2，x3 and x4 on Set5
 
