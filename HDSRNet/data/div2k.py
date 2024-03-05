@@ -22,7 +22,9 @@ class DIV2K(srdata.SRData):
         names_hr, names_lr = super(DIV2K, self)._scan()
         names_hr = names_hr[self.begin - 1:self.end]
         names_lr = [n[self.begin - 1:self.end] for n in names_lr]
-        # print('names_lr', names_lr)  # '/data/zxy/datasets/DIV2K/DIV2K_train_LR_bicubic/X4/0900x4.png'
+        # print('names_lr', names_lr)
+        ### The Path of our data is as bellow:
+        # '/data/zxy/datasets/DIV2K/DIV2K_train_LR_bicubic/X4/0900x4.png'
 
         return names_hr, names_lr
 
@@ -34,7 +36,8 @@ class DIV2K(srdata.SRData):
         # self.dir_lr = os.path.join(self.apath, 'DIV2K_train_LR_bicubic_all')
         # self.dir_lr = os.path.join(self.apath, 'DIV2K_train_LR_bicubic/X4')
         # self.dir_lr = os.path.join(self.apath, 'DIV2K_train_HR')
-        # 未知的lr数据集目录结构
+
+        ### test code to print your data path
         # print('dir_lr:', self.dir_lr)
         if self.input_large: self.dir_lr += 'L'
 
